@@ -9,4 +9,4 @@ There is one control: **melting speed**<br/>
 
 
 The result looks like this:<br/>
-![Resulting image](/gif/BFG_Melting.gif)
+![Resulting image](/gif/bfg_melting.gif)
