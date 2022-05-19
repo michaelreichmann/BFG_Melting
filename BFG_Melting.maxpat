@@ -236,7 +236,7 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 295.25, 497.75, 57.0, 20.0 ],
+									"patching_rect" : [ 290.75, 497.75, 57.0, 20.0 ],
 									"text" : "feedback"
 								}
 
@@ -17941,7 +17941,7 @@
 , 							{
 								"patchline" : 								{
 									"destination" : [ "obj-8", 1 ],
-									"midpoints" : [ 588.625, 452.0, 260.0, 452.0 ],
+									"midpoints" : [ 588.625, 456.0, 260.0, 456.0 ],
 									"source" : [ "obj-11", 0 ]
 								}
 
