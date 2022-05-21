@@ -7,4 +7,4 @@ There is one control: **melting speed**<br/>
 
 
 The result looks like this:<br/>
-![Resulting image](/gif/Phyllotaxis.gif)
+![Resulting image](/picture/bfg_melting.png)
